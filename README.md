@@ -16,14 +16,14 @@
 
 ### Built With
 
-* [HTML]
-* [CSS]
-* [JavaScript]
+* HTML
+* CSS
+* JavaScript
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources
+Boost your productivity using a color coded tracker to store tasks for the day. Stay on top of that to do list with a quick look to past present and future tasks by hour. 
 
 <!-- CONTACT -->
 ## Contact
