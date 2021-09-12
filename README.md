@@ -28,7 +28,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- CONTACT -->
 ## Contact
 
-Patricia - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Patricia Nelson -  urbanearthymama@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://urbanearthymama.github.io/week-schedular/](https://urbanearthymama.github.io/week-schedular/)
 
