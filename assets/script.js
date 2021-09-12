@@ -1,13 +1,13 @@
 $(document).ready(function () {
 
-  $("currentDay").text(getDate());
+  $("#currentDay").text(getDate());
   const hours = [9, 10, 11, 12, 13, 14, 15, 16, 17];
   let body = document.body;
   const now = new Date();
   const currentHour = now.getHours();
 
   function getDate() {
-    return dayjs().format("dddd, MMMM D");
+    return dayjs().format('dddd, MMMM D');
   }
 
   function getHourStatus(hour) {
