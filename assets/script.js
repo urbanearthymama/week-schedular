@@ -11,19 +11,19 @@ $(document).ready(function () {
   }
 
   function getHourStatus(hour) {
-    if (currentHour === hour) {
+    if (currentHour == hour) {
       return "current";
     } else if (currentHour < hour) {
-      return "past";
-    } else {
       return "future";
+    } else {
+      return "past";
     }
   }
 
   function getHourDisplay(hour) {
     if (hour > 12) 
         return hour - 12 + " pm";
-    if (hour === 12) 
+    if (hour == 12) 
         return "12 pm";
     return hour + " am";
   }
